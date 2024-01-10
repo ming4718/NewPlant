@@ -1,0 +1,472 @@
+{
+  "낚시": [
+    {
+      "id": 1,
+      "name": "복어",
+      "explanation": "위협을 받으면 부풀어 오릅니다.",
+      "location": "바다",
+      "season": ["여름"]
+    },
+    {
+      "id": 2,
+      "name": "멸치",
+      "explanation": "바다에서 발견되는 작은 생선.",
+      "location": "바다",
+      "season": ["봄 ", "가을"]
+    },
+    {
+      "id": 3,
+      "name": "참치",
+      "explanation": "바다에서 사는 큰 생선.",
+      "location": "바다",
+      "season": ["여름 ", "가을"]
+    },
+    {
+      "id": 4,
+      "name": "정어리",
+      "explanation": "흔한 바다 생선.",
+      "location": "바다",
+      "season": ["봄 ", "가을 ", "겨울"]
+    },
+    {
+      "id": 5,
+      "name": "도미",
+      "explanation": "흔한 강 어류. 야행성입니다.",
+      "location": "강",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 6,
+      "name": "큰입 우럭",
+      "explanation": "호수에 사는 인기 좋은 생선.",
+      "location": "호수",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 7,
+      "name": "작은입 우럭",
+      "explanation": "오염에 굉장히 민감한 민물고기.",
+      "location": "강",
+      "season": ["봄 ", "여름"]
+    },
+    {
+      "id": 8,
+      "name": "무지개 송어",
+      "explanation": "무늬가 화려한 민물송어.",
+      "location": "강",
+      "season": ["여름"]
+    },
+    {
+      "id": 9,
+      "name": "연어",
+      "explanation": "알을 낳기 위해 상류로 헤엄칩니다..",
+      "location": "강",
+      "season": ["가을"]
+    },
+    {
+      "id": 10,
+      "name": "월아이",
+      "explanation": "밤에 잡을 수 있는 민물고기.",
+      "location": "강",
+      "season": ["가을 ", "겨울"]
+    },
+    {
+      "id": 11,
+      "name": "농어",
+      "explanation": "겨울의 민물고기.",
+      "location": "연못",
+      "season": ["겨울"]
+    },
+    {
+      "id": 12,
+      "name": "잉어",
+      "explanation": "연못의 흔한 생선.",
+      "location": "연못",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 13,
+      "name": "메기",
+      "explanation": "강에서 드물게 발견되는 고기.",
+      "location": "강",
+      "season": ["봄 ", "가을"]
+    },
+    {
+      "id": 14,
+      "name": "강꼬치고기",
+      "explanation": "잡기 어려운 민물고기.",
+      "location": "강",
+      "season": ["여름 ", "가을"]
+    },
+    {
+      "id": 15,
+      "name": "개복치",
+      "explanation": "강의 흔한 어류.",
+      "location": "강",
+      "season": ["봄 ", "여름"]
+    },
+    {
+      "id": 16,
+      "name": "숭어",
+      "explanation": "예전에는 애완용으로 키우기도 했습니다.",
+      "location": "바다",
+      "season": ["여름 ", "가을"]
+    },
+    {
+      "id": 17,
+      "name": "청어",
+      "explanation": "흔한 바다고기.",
+      "location": "바다",
+      "season": ["봄 ", "겨울"]
+    },
+    {
+      "id": 18,
+      "name": "장어",
+      "explanation": "길고 미끌미끌한 작은 생선.",
+      "location": "바다",
+      "season": ["봄 ", "가을"]
+    },
+    {
+      "id": 19,
+      "name": "문어",
+      "explanation": "신비하고 지능적인 생물체.",
+      "location": "바다",
+      "season": ["여름"]
+    },
+    {
+      "id": 20,
+      "name": "붉은퉁돔",
+      "explanation": "멋진 붉은색의 인기 많은 생선.",
+      "location": "바다",
+      "season": ["여름 ", "겨울"]
+    },
+    {
+      "id": 21,
+      "name": "오징어",
+      "explanation": "거대한 크기로 자랄 수 있는 심해 생명체.",
+      "location": "바다",
+      "season": ["겨울"]
+    },
+    {
+      "id": 22,
+      "name": "해삼",
+      "explanation": "해저에서 발견되는 미끈거리고 끈적 이는 생명체.",
+      "location": "바다",
+      "season": ["가을 ", "겨울"]
+    },
+    {
+      "id": 23,
+      "name": "슈퍼 해삼",
+      "explanation": "희귀한 보랏빛 해삼.",
+      "location": "바다",
+      "season": ["여름 ", "가을"]
+    },
+    {
+      "id": 24,
+      "name": "귀신 물고기",
+      "explanation": "지하 호수에서 발견되는 창백하고 눈 먼 생선.",
+      "location": "광산(20,60)유령이 떨굼",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 25,
+      "name": "쑥치",
+      "explanation": "벽돌 모양의 기이한 생선.",
+      "location": "광산 20층",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 26,
+      "name": "아이스핍",
+      "explanation": "매우 추운 환경에서 잘 자라는 희귀한 생선.",
+      "location": "광산 60층",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 27,
+      "name": "용암 장어",
+      "explanation": "놀랍게도 뜨거운 용암 속에서 살아갑니다.",
+      "location": "광산 100층",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 28,
+      "name": "도루묵",
+      "explanation": "위장색을 이용해 숨으려 합니다.",
+      "location": "사막",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 29,
+      "name": "전갈 잉어",
+      "explanation": "일반적인 잉어랑 비슷한지만, 날카로운 침이 있습니다.",
+      "location": "사막",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 30,
+      "name": "가자미",
+      "explanation": "그것은 바닥에 살기 때문에 두 눈이 머리 위에 있습니다.",
+      "location": "바다",
+      "season": ["봄 ", "여름"]
+    },
+    {
+      "id": 31,
+      "name": "자정 잉어",
+      "explanation": "이 수줍은 물고기는 밤에 만 편안한 느낌입니다.",
+      "location": "호수",
+      "season": ["가을 ", "겨울"]
+    },
+    {
+      "id": 32,
+      "name": "철갑 상어",
+      "explanation": "개체 수가 점점 줄어들고 있는, 호수 바닥에서 먹이를 찾는 고대 물고기. 암컷의 수명은 150년 정도 됩니다.",
+      "location": "호수",
+      "season": ["여름 ", "겨울"]
+    },
+    {
+      "id": 33,
+      "name": "타이거 송어",
+      "explanation": "희귀한 잡종송어로, 새끼 를 가질 수 없습니다.",
+      "location": "강",
+      "season": ["가을 ", "겨울"]
+    },
+    {
+      "id": 34,
+      "name": "눈동 자개",
+      "explanation": "메기의 먼 친척으로 호수 바닥에서 다양한 음식을 먹습니다.",
+      "location": "호수",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 35,
+      "name": "틸라 피아",
+      "explanation": "따뜻한 물을 선호하며 주로 초식을 하는 생선.",
+      "location": "바다",
+      "season": ["여름 ", "가을"]
+    },
+    {
+      "id": 36,
+      "name": "피라미",
+      "explanation": "식욕이 왕성한 것으로 유명한 흔한 민물고기.",
+      "location": "강",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 37,
+      "name": "만새기",
+      "explanation": "밝은 주황색 비늘이 있는 사나운 육식 생선.",
+      "location": "강",
+      "season": ["여름"]
+    },
+    {
+      "id": 38,
+      "name": "날개 다랑어",
+      "explanation": "시원한 물과 따뜻한 물이 만나는 온도 '변두리'를 선호합니다.",
+      "location": "바다",
+      "season": ["가을 ", "겨울"]
+    },
+    {
+      "id": 39,
+      "name": "전어",
+      "explanation": "바다에서 무리 지어 생활하지만, 알을 낳기 위해 강으로 돌아옵니다.",
+      "location": "강",
+      "season": ["봄 ", "여름 ", "가을"]
+    },
+    {
+      "id": 40,
+      "name": "범노래미",
+      "explanation": "입에 넣을 수 있는 건 뭐든지 먹는 무시무시한 포식자.",
+      "location": "강",
+      "season": ["겨울"]
+    },
+    {
+      "id": 41,
+      "name": "넙치",
+      "explanation": "바다 바닥에 사는 납작한 물고기.",
+      "location": "바다",
+      "season": ["봄 ", "여름 ", "겨울"]
+    },
+    {
+      "id": 42,
+      "name": "숲고기",
+      "explanation": "깊은 숲속의 웅덩이에서만 서식하는 예민한 물고기.",
+      "location": "비밀의 숲 연못",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 43,
+      "name": "공허의 연어",
+      "explanation": "공허 에너지로 뒤틀린 연어. 신선한 고기는 칠흑 같은 검은색이지만, 공기중에 노출되면 급속도로 분홍색으로 변합니다.",
+      "location": "마녀의 늪",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 44,
+      "name": "슬라임잭",
+      "explanation": "슬라임으로 뒤덮여있습니다. 자꾸 손에서 높치게 됩니다!",
+      "location": "돌연변이 곤충 둥지",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 5,
+      "name": "쏠배감펭",
+      "explanation": "등지느러미에 독을 품은 공격적인 포식자.",
+      "location": "진저섬 바다",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 46,
+      "name": "블루디스커스",
+      "explanation": "색이 밝은 열대어. 수족관에서 인기가 많습니다.",
+      "location": "진저섬 호수",
+      "season": ["모든 계절"]
+    },
+    {
+      "id": 47,
+      "name": "가오리",
+      "explanation": "독침이 있지만, 겁이 많아 사람을 피합니다.",
+      "location": "해적의만(진저섬)",
+      "season": ["모든 계절"]
+    }
+  ],
+  "야시장": [
+    {
+      "id": 1,
+      "name": "자정 오징어",
+      "explanation": "황혼바다의 깊은 곳에 서식하는 이상하고 신비한 생명체.",
+      "location": "잠수함"
+    },
+    {
+      "id": 2,
+      "name": "통안어",
+      "explanation": "큰 눈으로 먹이의 희미한 실루엣도 감지해냅니다.",
+      "location": "잠수함"
+    },
+    {
+      "id": 3,
+      "name": "블롭 피쉬",
+      "explanation": "이상한 생명체는 해저에 둥둥떠다니며 먹을 수 있는것은 전부 먹어 치웁니다.",
+      "location": "잠수함"
+    }
+  ],
+  "전설": [
+    {
+      "id": 1,
+      "name": "크림슨피쉬",
+      "explanation": "심해에 살지만, 따뜻한 여름철에 알을 낳는 것을 선호합니다",
+      "location": "해변의 동쪽다리. 깊은 물에서",
+      "season": ["여름"]
+    },
+    {
+      "id": 2,
+      "name": "아귀",
+      "explanation": "생물발광을 이용해서 먹이를 유인합니다.",
+      "location": "조자마트 북쪽에 있는 나무판자 다리",
+      "season": ["가을"]
+    },
+    {
+      "id": 3,
+      "name": "전설의 물고기",
+      "explanation": "모든 물고기의 왕! 한 번도 잡힌적이 없다고 합니다.",
+      "location": "산 호수 통나무 근처",
+      "season": ["봄 "]
+    },
+    {
+      "id": 4,
+      "name": "빙하 고기",
+      "explanation": "빙하 아랫면에 둥지를 틉니다",
+      "location": "화살머리 섬 남쪽 끝에 있는 잉걸불 수액 숲 깊은물",
+      "season": ["겨울"]
+    },
+    {
+      "id": 5,
+      "name": "돌연변이 잉어",
+      "explanation": "하수구의 이상한 물 때문에 잉어가 괴상하게 변했습니다.",
+      "location": "하수도",
+      "season": ["모든 계절"]
+    }
+  ],
+  "통발": [
+    {
+      "id": 1,
+      "name": "바닷 가재",
+      "explanation": "바다에서 서식하는 강한 꼬리가 있는 갑각류.",
+      "location": "바다"
+    },
+    {
+      "id": 2,
+      "name": "조개",
+      "explanation": "한때 누군가 여기 살았습니다.",
+      "location": "바다"
+    },
+    {
+      "id": 3,
+      "name": "민물 가재",
+      "explanation": "바닷가재보다 작고 민물에 삽니다.",
+      "location": "민물"
+    },
+    {
+      "id": 4,
+      "name": "게",
+      "explanation": "두 개의 강한 집게발이 있는 바다에 서식하는 갑각류.",
+      "location": "바다"
+    },
+    {
+      "id": 5,
+      "name": "새조개",
+      "explanation": "바다에서 서식하는 흔한 조개.",
+      "location": "바다"
+    },
+    {
+      "id": 6,
+      "name": "홍합",
+      "explanation": "무리 지어 지내는 쌍각류 조개.",
+      "location": "바다"
+    },
+    {
+      "id": 7,
+      "name": "새우",
+      "explanation": "해저에서 죽은 동물을 먹는 생명체. 육질 때문에 가치가 높다.",
+      "location": "바다"
+    },
+    {
+      "id": 8,
+      "name": "달팽이",
+      "explanation": "서식지가 다양한, 나선형 껍데기 속에 사는 연체동물.",
+      "location": "민물"
+    },
+    {
+      "id": 9,
+      "name": "충알 고둥",
+      "explanation": "푸른 껍데기 속에 사는 작은 민물 달팽이.",
+      "location": "민물"
+    },
+    {
+      "id": 10,
+      "name": "굴",
+      "explanation": "먹거리를 찾기 위해 꾸준히 물을 여과시킵니다. 이과정에서 주변의 위험한 독소를 제거합니다.",
+      "location": "바다"
+    }
+  ],
+  "그 외": [
+    {
+      "id": 1,
+      "name": "해초",
+      "explanation": "요리에 사용 할 수 있습니다.",
+      "location": "바다"
+    },
+    {
+      "id": 2,
+      "name": "녹조류",
+      "explanation": "점액질 같은 질감이 강합니다.",
+      "location": "농장 연못을 제외하고 어디서나"
+    },
+    {
+      "id": 3,
+      "name": "흰 조류",
+      "explanation": "무척 미끈미끈합니다.",
+      "location": "광산"
+    }
+  ]
+}
